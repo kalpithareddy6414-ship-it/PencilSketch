@@ -6,14 +6,14 @@ A simple Python project that converts a normal image into a pencil sketch using 
 - Fast and lightweight
 - Uses OpenCV for image processing
 
-  **Tech used**
+**Tech used**
 - Python
 - OpenCV (cv2)
 
- **Installation**
+**Installation**
  pip install opencv-python
 
- **How to run**
+**How to run**
  python sketch.py
 
  ## Input Image
