@@ -21,5 +21,6 @@ A simple Python project that converts a normal image into a pencil sketch using 
 
 
 ## Output Image (Pencil Sketch)
-<img width="1034" height="692" alt="Screenshot 2025-10-30 093127" src="https://github.com/user-attachments/assets/31793dca-8727-491b-b8bc-9b1e02d60a12" />
+<img width="316" height="233" alt="image" src="https://github.com/user-attachments/assets/6e210fe3-88f4-438e-ab4a-d2945c020ab6" />
+
 
